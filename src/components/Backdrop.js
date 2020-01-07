@@ -22,7 +22,7 @@ export default function SimpleBackdrop() {
           setOpen(!open);
         }}
       >
-        Show backdrop
+        Show backdrops
       </button>
       <Backdrop
         className={classes.backdrop}
